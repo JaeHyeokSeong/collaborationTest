@@ -8,6 +8,9 @@ namespace Calculator {
 	double remove(double a, double b) {
 		return a - b;
 	}
+	double multiply(double a, double b) {
+		return a * b;
+	}
 }
 
 #endif // CALCULATOR_HPP
